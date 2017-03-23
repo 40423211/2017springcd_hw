@@ -46,6 +46,7 @@
 </v>
 <v t="yen.20170108171733.71" a="E"><vh>@path content</vh>
 <v t="leo.20170303212553.1"><vh>@@edit 20170108.md</vh></v>
+<v t="leo.20170323171014.1"><vh>@edit 20170222.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -105,12 +106,12 @@
 </vnodes>
 <tnodes>
 <t tx="leo.20170303212553.1">@language md
-Title: 2017Spring 協同產品設計實習
-Date: 2017-01-08 11:00
+Title: Week1   20170222
+Date: 2017-02-22 11:00
 Category: Course
 Tags: syllabus, w1
-Slug: 2017spring-cd
-Author: yen
+Slug: 2017spring-cd W1
+Author: 40423211
 
 協同產品設計實習在銜接計算機程式、電腦輔助設計實習課程, 讓學員以分組協同的方式進行產品設計實習.
 
@@ -233,15 +234,14 @@ Author: yen
 
 ### 虎科大機械設計工程系
 
-####學員 40423245 課程簡報
+####學員 40423211 課程簡報
 
 &lt;small&gt;
-Created by [40423245](https://40423245.github.io/2017springcd_hw/blog/)
+Created by [40423211](https://40423211.github.io/2017springcd_hw/blog/)
 &lt;/small&gt;
 
 [協同產品設計實習課程個人網誌](blog/index.html)
 
-[Vimeo 上課心得影片](https://vimeo.com/user47996237)
 
 
 </t>
@@ -351,7 +351,7 @@ Diff...
 <t tx="leo.20170322151636.1"></t>
 <t tx="leo.20170322151636.2">(uncached) leo.20170312212027.2
 Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+- ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 ?                               ^
 + ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 ?                               ^
@@ -364,7 +364,7 @@ Diff...
 &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
 
 </t>
-<t tx="leo.20170322151636.4">####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+<t tx="leo.20170322151636.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 
 &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
 
