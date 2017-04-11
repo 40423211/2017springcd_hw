@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-02-28T11:00:00+08:00</updated><entry><title>Week2 20170228</title><link href="./2017spring-cd%20W2.html" rel="alternate"></link><published>2017-02-28T11:00:00+08:00</published><updated>2017-02-28T11:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-02-28:./2017spring-cd W2.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-03-07T11:00:00+08:00</updated><entry><title>Week3 20170307</title><link href="./2017spring-cd%20W3.html" rel="alternate"></link><published>2017-03-07T11:00:00+08:00</published><updated>2017-03-07T11:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-03-07:./2017spring-cd W3.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h3&gt;一.使用Onshape3D繪圖軟體30-50-60cm比例之四連桿機構,並以V-rep開啟&lt;/h3&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h3&gt;首先將各尺寸的連桿實體畫出&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src="../data/1491898085992.png" width="width="50%" height="50%" /&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;再開啟組合圖&lt;/h3&gt;
+&lt;h3&gt;利用點與點的重合、線的共線及點與面的重合，限制桿子的作動&lt;/h3&gt;
+&lt;p&gt;&lt;img src="../data/1491897996166.png" width="800" /&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;並匯出成STL檔&lt;/h3&gt;
+&lt;p&gt;&lt;img src="../data/1491898384936.png" width="width="50%" height="50%" /&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;再使用V-rep裡的ImportMash開啟&lt;/h3&gt;
+&lt;p&gt;&lt;img src="../data/1491898218971.png" width="800" /&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;影片&lt;/h3&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/qN7bP4QnZ-Q" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;二.使用solvespace學會畫出頂點的運動軌跡。&lt;/h3&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;先畫出30-50-60-60的四連桿草圖&lt;/h3&gt;
+&lt;h3&gt;並在50桿子上畫出一正三角形&lt;/h3&gt;
+&lt;p&gt;&lt;img src="../data/1491904964296.png" width="width="50%" height="50%" /&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;點選正三角形的頂點&lt;/h3&gt;
+&lt;h3&gt;並利用Analyze裡的Trace point繪製出頂點的運動軌跡&lt;/h3&gt;
+&lt;p&gt;&lt;img src="../data/1491897634328.png" width="width="50%" height="50%" /&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;可以在Excel中看到頂點運動軌跡的坐標&lt;/h3&gt;
+&lt;p&gt;&lt;img src="../data/1491897672049.png" width="800" /&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;影片&lt;/h3&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/eqLS8OjwIgM" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h3&gt;心得&lt;/h3&gt;</summary><category term="syllabus"></category><category term="w3"></category></entry><entry><title>Week2 20170228</title><link href="./2017spring-cd%20W2.html" rel="alternate"></link><published>2017-02-28T11:00:00+08:00</published><updated>2017-02-28T11:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-02-28:./2017spring-cd W2.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h3&gt;一.利用python找出缺課人員&lt;/h3&gt;
 
