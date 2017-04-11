@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-03-07T11:00:00+08:00</updated><entry><title>Week3 20170307</title><link href="./2017spring-cd%20W3.html" rel="alternate"></link><published>2017-03-07T11:00:00+08:00</published><updated>2017-03-07T11:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-03-07:./2017spring-cd W3.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-03-14T11:00:00+08:00</updated><entry><title>Week4 20170314</title><link href="./2017spring-cd%20W4.html" rel="alternate"></link><published>2017-03-14T11:00:00+08:00</published><updated>2017-03-14T11:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-03-14:./2017spring-cd W4.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h3&gt;一.在Onshape繪製單連桿機構&lt;/h3&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h3&gt;繪製出所需零件 ，底座、軸及單連桿&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src="../data/1491924065245.png" width="width="70%" height="70%" /
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;並將其組立起來&lt;/h3&gt;
+&lt;p&gt;&lt;img src="../data/1491923976248.png" width="width="25%" height="25%" /
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;影片&lt;/h3&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/eqm44sarkg4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;一.在Onshape繪製單連桿機構&lt;/h3&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;繪製出所需零件 ，底座、軸及單連桿&lt;/h3&gt;
+&lt;p&gt;&lt;img src="../data/1491924165953.png" width="800" /&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;並將其組立起來&lt;/h3&gt;
+&lt;p&gt;&lt;img src="../data/1491924243593.png" width="width="50%" height="50%" /
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;影片&lt;/h3&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/H9Lxk_K4SlY" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;心得&lt;/h3&gt;
+&lt;h3&gt;兩個繪圖軟體的鍵盤指令都不相同，在使用過程中很容易就搞混了，希望可以經過多次練習來習慣使用他們。&lt;/h3&gt;</summary><category term="syllabus"></category><category term="w4"></category></entry><entry><title>Week3 20170307</title><link href="./2017spring-cd%20W3.html" rel="alternate"></link><published>2017-03-07T11:00:00+08:00</published><updated>2017-03-07T11:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-03-07:./2017spring-cd W3.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h3&gt;一.使用Onshape3D繪圖軟體30-50-60cm比例之四連桿機構,並以V-rep開啟&lt;/h3&gt;
 
