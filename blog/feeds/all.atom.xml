@@ -1,5 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-03-14T11:00:00+08:00</updated><entry><title>Week4 20170314</title><link href="./2017spring-cd%20W4.html" rel="alternate"></link><published>2017-03-14T11:00:00+08:00</published><updated>2017-03-14T11:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-03-14:./2017spring-cd W4.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-03-21T11:00:00+08:00</updated><entry><title>Week5 20170321</title><link href="./2017spring-cd%20W5.html" rel="alternate"></link><published>2017-03-21T11:00:00+08:00</published><updated>2017-03-21T11:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-03-21:./2017spring-cd W5.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h3&gt;把Onshape繪製單連桿機構在v-rep中開啟，並使他作動。&lt;/h3&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h3&gt;使用V-rep裡的Import/Mash將已經畫完的單連桿機構開啟&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src="../data/1491940207384.png" width="width="50%" height="50%" /
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;用object/item shift稍微調整X或Y軸&lt;/h3&gt;
+&lt;h3&gt;以免等等叫出的馬達卡在機構中(記得單位是公尺)&lt;h3&gt;
+&lt;p&gt;&lt;img src="../data/1491939137190.png" width="width="50%" height="50%" /
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;在旁邊白色地方處點滑鼠右鍵，點選add&gt;Joint&gt;Revolute將馬達開啟&lt;/h3&gt;
+&lt;p&gt;&lt;img src="../data/1.png" width="width="50%" height="50%" /
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;在旁邊的馬達圖案點選兩下&lt;/h3&gt;
+&lt;h3&gt;點選在右邊的Length和Diameter修改成自己需要的尺寸&lt;/h3&gt;
+&lt;p&gt;&lt;img src="../data/2.png" width="width="50%" height="50%" /
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;點選左上角Edit&gt;Grouping/Merging&gt;Divide selected shapes&lt;/h3&gt;
+&lt;h3&gt;將單連桿機構分成三個零件&lt;/h3&gt;
+&lt;p&gt;&lt;img src="../data/3.png" width="width="50%" height="50%" /
+&lt;p&gt;&lt;img src="../data/4.png" width="width="50%" height="50%" /
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;再來要將馬達移位至傳動軸的位置&lt;/h3&gt;
+&lt;h3&gt;先點選在馬達 在按Ctrl點選傳動軸&lt;/h3&gt;
+&lt;p&gt;&lt;img src="../data/5.png" width="width="50%" height="50%" /
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;再點選Object/Item裡的Apply to selection&lt;/h3&gt;
+&lt;p&gt;&lt;img src="../data/6.png" width="width="50%" height="50%" /
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;之後馬達就會移位至傳動軸的位置&lt;/h3&gt;
+&lt;p&gt;&lt;img src="../data/1491941849790.png" width="width="50%" height="50%" /
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;將傳動軸的零件抑制&lt;/h3&gt;
+&lt;p&gt;&lt;img src="../data/7.png" width="width="50%" height="50%" /
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;並將上面的零件改成從動件&lt;/h3&gt;
+&lt;p&gt;&lt;img src="../data/8.png" width="width="50%" height="50%" /
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;再來只要輸入自己所要的轉速就可以移動了&lt;/h3&gt;
+&lt;p&gt;&lt;img src="../data/9.png" width="width="50%" height="50%" /
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;影片&lt;/h3&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/uxO4HiF6DaE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h3&gt;心得&lt;/h3&gt;</summary><category term="syllabus"></category><category term="w5"></category></entry><entry><title>Week4 20170314</title><link href="./2017spring-cd%20W4.html" rel="alternate"></link><published>2017-03-14T11:00:00+08:00</published><updated>2017-03-14T11:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-03-14:./2017spring-cd W4.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h3&gt;一.在Onshape繪製單連桿機構&lt;/h3&gt;
 
