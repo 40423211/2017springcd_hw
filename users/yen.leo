@@ -147,7 +147,7 @@
 <v t="leo.20170417023021.31"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170417024125.1" a="E"><vh>20170314第四週上課筆記</vh>
+<v t="leo.20170417024125.1"><vh>20170314第四週上課筆記</vh>
 <v t="leo.20170417024125.2" a="E"><vh>上課內容</vh>
 <v t="leo.20170417024125.3"><vh>上課大綱</vh></v>
 </v>
@@ -177,6 +177,53 @@
 </v>
 <v t="leo.20170417024125.20" a="E"><vh>9</vh>
 <v t="leo.20170417024125.21"><vh>9</vh></v>
+</v>
+</v>
+<v t="leo.20170417030023.1" a="E"><vh>20170321第五週上課筆記</vh>
+<v t="leo.20170417030023.2" a="E"><vh>上課內容</vh>
+<v t="leo.20170417030023.3"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170417030023.4" a="E"><vh>1</vh>
+<v t="leo.20170417030023.5"><vh>1</vh></v>
+</v>
+<v t="leo.20170417030023.6" a="E"><vh>2</vh>
+<v t="leo.20170417030023.7"><vh>2</vh></v>
+</v>
+<v t="leo.20170417030023.8" a="E"><vh>3</vh>
+<v t="leo.20170417030023.9"><vh>3</vh></v>
+</v>
+<v t="leo.20170417030023.10" a="E"><vh>4</vh>
+<v t="leo.20170417030023.11"><vh>4</vh></v>
+</v>
+<v t="leo.20170417030023.12" a="E"><vh>5</vh>
+<v t="leo.20170417030023.13"><vh>5</vh></v>
+</v>
+<v t="leo.20170417030023.14" a="E"><vh>6</vh>
+<v t="leo.20170417030023.15"><vh>6</vh></v>
+</v>
+<v t="leo.20170417030023.16" a="E"><vh>7</vh>
+<v t="leo.20170417030023.17"><vh>7</vh></v>
+</v>
+<v t="leo.20170417030023.18" a="E"><vh>8</vh>
+<v t="leo.20170417030023.19"><vh>8</vh></v>
+</v>
+<v t="leo.20170417030023.20" a="E"><vh>9</vh>
+<v t="leo.20170417030023.21"><vh>9</vh></v>
+</v>
+<v t="leo.20170417030023.22" a="E"><vh>10</vh>
+<v t="leo.20170417030023.23"><vh>10</vh></v>
+</v>
+<v t="leo.20170417030023.24" a="E"><vh>11</vh>
+<v t="leo.20170417030023.25"><vh>11</vh></v>
+</v>
+<v t="leo.20170417030407.1" a="E"><vh>12</vh>
+<v t="leo.20170417030407.2"><vh>12</vh></v>
+</v>
+<v t="leo.20170417030409.1" a="E"><vh>13</vh>
+<v t="leo.20170417030409.2"><vh>13</vh></v>
+</v>
+<v t="leo.20170417030410.1" a="E"><vh>14</vh>
+<v t="leo.20170417030410.2"><vh>14</vh></v>
 </v>
 </v>
 </v>
@@ -1108,6 +1155,206 @@ Diff...
 </t>
 <t tx="leo.20170417024125.9">&lt;h3&gt;並將其組立起來&lt;/h3&gt;
 &lt;p&gt;&lt;img src="data/1491923976248.png" width="480" /&gt;</t>
+<t tx="leo.20170417030023.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170417030023.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417030023.11">&lt;h3&gt;在旁邊的馬達圖案點選兩下&lt;/h3&gt;
+&lt;h3&gt;點選在右邊的Length和Diameter修改成自己需要的尺寸&lt;/h3&gt;
+&lt;p&gt;&lt;img src="data/2.png" width="320" /&gt;</t>
+<t tx="leo.20170417030023.12">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417030023.13">&lt;h3&gt;點選左上角Edit&gt;Grouping/Merging&gt;Divide selected shapes&lt;/h3&gt;
+&lt;h3&gt;將單連桿機構分成三個零件&lt;/h3&gt;
+&lt;p&gt;&lt;img src="data/3.png" width="320" /&gt;</t>
+<t tx="leo.20170417030023.14">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417030023.15">&lt;p&gt;&lt;img src="data/4.png" width="480" /&gt;</t>
+<t tx="leo.20170417030023.16">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417030023.17">&lt;h3&gt;再來要將馬達移位至傳動軸的位置&lt;/h3&gt;
+&lt;h3&gt;先點選在馬達 在按Ctrl點選傳動軸&lt;/h3&gt;
+&lt;p&gt;&lt;img src="data/5.png" width="480" /&gt;</t>
+<t tx="leo.20170417030023.18">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417030023.19">&lt;h3&gt;再點選Object/Item裡的Apply to selection&lt;/h3&gt;
+&lt;p&gt;&lt;img src="data/6.png" width="480" /&gt;</t>
+<t tx="leo.20170417030023.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417030023.20">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417030023.21">&lt;h3&gt;之後馬達就會移位至傳動軸的位置&lt;/h3&gt;
+&lt;p&gt;&lt;img src="data/1491941849790.png" width="320" /&gt;</t>
+<t tx="leo.20170417030023.22">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170417030023.23">&lt;h3&gt;將傳動軸的零件抑制&lt;/h3&gt;
+&lt;p&gt;&lt;img src="data/7.png" width="320" /&gt;</t>
+<t tx="leo.20170417030023.24">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417030023.25">&lt;h3&gt;並將上面的零件改成從動件&lt;/h3&gt;
+&lt;p&gt;&lt;img src="data/8.png" width="320" /&gt;</t>
+<t tx="leo.20170417030023.3">#Week5_上課筆記
+
+&lt;h3&gt;一.把Onshape繪製單連桿機構在v-rep中開啟，並使他作動。&lt;/h3&gt;</t>
+<t tx="leo.20170417030023.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417030023.5">&lt;h3&gt;使用V-rep裡的Import/Mash將已經畫完的單連桿機構開啟&lt;/h3&gt;
+&lt;p&gt;&lt;img src="data/1491940207384.png" width="480" /&gt;</t>
+<t tx="leo.20170417030023.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417030023.7">&lt;h3&gt;用object/item shift稍微調整X或Y軸&lt;/h3&gt;
+&lt;h3&gt;以免等等叫出的馬達卡在機構中(記得單位是公尺)&lt;h3&gt;
+&lt;p&gt;&lt;img src="data/1491939137190.png" width="400" /&gt;</t>
+<t tx="leo.20170417030023.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417030023.9">&lt;h3&gt;在旁邊白色地方處點滑鼠右鍵，點選add&gt;Joint&gt;Revolute將馬達開啟&lt;/h3&gt;
+&lt;p&gt;&lt;img src="data/1.png" width="480" /&gt;</t>
+<t tx="leo.20170417030407.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417030407.2">&lt;h3&gt;再來只要輸入自己所要的轉速就可以移動了&lt;/h3&gt;
+&lt;p&gt;&lt;img src="data/9.png" width="320" /&gt;</t>
+<t tx="leo.20170417030409.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417030409.2">&lt;h3&gt;影片&lt;/h3&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/uxO4HiF6DaE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170417030410.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417030410.2">&lt;h3&gt;心得:第一次要將v-rep裡的單連桿機構作動耗費了我許多時間，但是在多次的操作下已經越來越清楚連桿機構作動的原理，在下次有關於v-rep的作業應該可以更快速地完成。&lt;/h3&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
