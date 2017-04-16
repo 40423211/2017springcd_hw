@@ -39,7 +39,7 @@
 <v t="leo.20170303213004.4"><vh>快捷鍵</vh>
 <v t="leo.20170303213004.5"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20170416151702.1" a="E"><vh>20170222第一週上課筆記</vh>
+<v t="leo.20170416151702.1"><vh>20170222第一週上課筆記</vh>
 <v t="leo.20170416151702.2"><vh>上課內容</vh>
 <v t="leo.20170416151702.3"><vh>上課大綱</vh></v>
 </v>
@@ -66,6 +66,53 @@
 </v>
 <v t="leo.20170416151702.28"><vh>影片</vh>
 <v t="leo.20170416151702.29"><vh>Week1_影片</vh></v>
+</v>
+</v>
+<v t="leo.20170417020333.1" a="E"><vh>20170228第二週上課筆記</vh>
+<v t="leo.20170417020333.2" a="E"><vh>上課內容</vh>
+<v t="leo.20170417020333.3"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170417020333.4" a="E"><vh>1</vh>
+<v t="leo.20170417020333.5"><vh>1</vh></v>
+</v>
+<v t="leo.20170417020333.6" a="E"><vh>2</vh>
+<v t="leo.20170417020333.7"><vh>2</vh></v>
+</v>
+<v t="leo.20170417020333.8" a="E"><vh>3</vh>
+<v t="leo.20170417020333.9"><vh>3</vh></v>
+</v>
+<v t="leo.20170417020333.10" a="E"><vh>4</vh>
+<v t="leo.20170417020333.11"><vh>4</vh></v>
+</v>
+<v t="leo.20170417020333.12" a="E"><vh>5</vh>
+<v t="leo.20170417020333.13"><vh>5</vh></v>
+</v>
+<v t="leo.20170417020333.14" a="E"><vh>6</vh>
+<v t="leo.20170417020333.15"><vh>6</vh></v>
+</v>
+<v t="leo.20170417020700.1" a="E"><vh>7</vh>
+<v t="leo.20170417020700.2"><vh>7</vh></v>
+</v>
+<v t="leo.20170417020702.1" a="E"><vh>8</vh>
+<v t="leo.20170417020702.2"><vh>8</vh></v>
+</v>
+<v t="leo.20170417020740.1" a="E"><vh>9</vh>
+<v t="leo.20170417020740.2"><vh>9</vh></v>
+</v>
+<v t="leo.20170417020736.1" a="E"><vh>10</vh>
+<v t="leo.20170417020736.2"><vh>10</vh></v>
+</v>
+<v t="leo.20170417020738.1" a="E"><vh>11</vh>
+<v t="leo.20170417020738.2"><vh>11</vh></v>
+</v>
+<v t="leo.20170417020704.1" a="E"><vh>12</vh>
+<v t="leo.20170417020704.2"><vh>12</vh></v>
+</v>
+<v t="leo.20170417020333.18" a="E"><vh>影片</vh>
+<v t="leo.20170417020333.19"><vh>Week1_影片</vh></v>
+</v>
+<v t="leo.20170417020333.16" a="E"><vh>心得</vh>
+<v t="leo.20170417020333.17"><vh>心得</vh></v>
 </v>
 </v>
 </v>
@@ -525,6 +572,207 @@ Diff...
 </t>
 <t tx="leo.20170416152610.2">&lt;img src="data/1491825788615.png" width="800" /&gt;
 </t>
+<t tx="leo.20170417020333.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170417020333.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417020333.11">&lt;h3&gt;然後可以利用w2b_cadlab這裡面的程式碼來確認修課學生的缺曠課&lt;/h3&gt;
+&lt;p&gt;&lt;img src="data/1491827904947.png" width="320" /&gt;</t>
+<t tx="leo.20170417020333.12">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417020333.13">&lt;h3&gt;二.&lt;/h3&gt;
+&lt;h3&gt;先畫出30-50-60-60四連桿基本的尺寸&lt;/h3&gt;</t>
+<t tx="leo.20170417020333.14">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417020333.15">&lt;p&gt;&lt;img src="data/1491850950376.png" width="320" /&gt;</t>
+<t tx="leo.20170417020333.16">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417020333.17">&lt;h3&gt;心得:利用python找出缺課人員再上有使用電腦的課程來進行點名的話似乎比雲端點名系統還要方便。&lt;/h3&gt;
+&lt;h3&gt;使用SolveSpace畫出四連桿機構也算是複習上學期所使用的東西，希望在將來的課程中可以進階的使用到SolveSpace這個軟體。&lt;/h3&gt;</t>
+<t tx="leo.20170417020333.18">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170417020333.19">&lt;h3&gt;影片&lt;/h3&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pohckQdL_1s" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170417020333.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417020333.3">#Week2_上課筆記
+
+&lt;h3&gt;一.利用python找出缺課人員&lt;/h3&gt;
+&lt;h3&gt;二.在SolveSpace畫出四連桿機構&lt;/h3&gt;</t>
+<t tx="leo.20170417020333.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417020333.5">&lt;h3&gt;一.&lt;/h3&gt;
+&lt;h3&gt;可以下載我們的課程範例中開啟w2b_cadlab看到有在上課填坐位表的修課學生&lt;/h3&gt;</t>
+<t tx="leo.20170417020333.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417020333.7">&lt;p&gt;&lt;img src="data/1491828314187.png" width="320" /&gt;</t>
+<t tx="leo.20170417020333.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417020333.9">&lt;h3&gt;啟w2b_cadlab可以看到有修這一門課的學生&lt;/h3&gt;
+&lt;p&gt;&lt;img src="data/1491828335460.png" width="320" /&gt;</t>
+<t tx="leo.20170417020700.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417020700.2">&lt;h3&gt;再50跟30之間畫出一條隨意尺寸的線延伸到外面&lt;/h3&gt;
+&lt;h3&gt;方便等一下四連桿的做動&lt;/h3&gt;
+&lt;p&gt;&lt;img src="data/1491829109624.png" width="320" /&gt;</t>
+<t tx="leo.20170417020702.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417020702.2">&lt;h3&gt;再開起課程範例裡的連桿&lt;/h3&gt;
+&lt;h3&gt;利用點與點的重合、線的共線及點與面的重合，限制桿子的作動&lt;/h3&gt;
+&lt;p&gt;&lt;img src="data/1491829214980.png" width="320" /&gt;</t>
+<t tx="leo.20170417020704.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417020704.2">&lt;img src="data/1491825788615.png" width="800" /&gt;
+</t>
+<t tx="leo.20170417020736.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417020736.2">&lt;h3&gt;可以用object/item shift調整z軸高度(記得單位是公尺)&lt;/h3&gt;
+&lt;p&gt;&lt;img src="data/1491829303260.png" width="320" /&gt;</t>
+<t tx="leo.20170417020738.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417020738.2">&lt;img src="data/1491825788615.png" width="800" /&gt;
+</t>
+<t tx="leo.20170417020740.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417020740.2">&lt;h3&gt;組合完之後將四連桿機構儲存成STL檔&lt;/h3&gt;
+&lt;h3&gt;再使用V-rep裡的Import/Mash開啟&lt;/h3&gt;
+&lt;h3&gt;開啟時四連桿機構會鑲進地面&lt;/h3&gt;
+&lt;p&gt;&lt;img src="data/1491829268028.png" width="320" /&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
