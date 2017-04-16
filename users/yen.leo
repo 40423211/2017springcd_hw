@@ -39,6 +39,35 @@
 <v t="leo.20170303213004.4"><vh>快捷鍵</vh>
 <v t="leo.20170303213004.5"><vh>投影片快捷鍵</vh></v>
 </v>
+<v t="leo.20170416151702.1" a="E"><vh>20170222第一週上課筆記</vh>
+<v t="leo.20170416151702.2"><vh>上課內容</vh>
+<v t="leo.20170416151702.3"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170416152308.1" a="E"><vh>1</vh>
+<v t="leo.20170416152308.2"><vh>1</vh></v>
+</v>
+<v t="leo.20170416152310.1" a="E"><vh>2</vh>
+<v t="leo.20170416152310.2"><vh>2</vh></v>
+</v>
+<v t="leo.20170416152314.1" a="E"><vh>3</vh>
+<v t="leo.20170416152314.2"><vh>3</vh></v>
+</v>
+<v t="leo.20170416152315.1" a="E"><vh>4</vh>
+<v t="leo.20170416152315.2"><vh>4</vh></v>
+</v>
+<v t="leo.20170416152609.1" a="E"><vh>5</vh>
+<v t="leo.20170416152609.2"><vh>5</vh></v>
+</v>
+<v t="leo.20170416152610.1" a="E"><vh>6</vh>
+<v t="leo.20170416152610.2"><vh>6</vh></v>
+</v>
+<v t="leo.20170416151702.30"><vh>心得</vh>
+<v t="leo.20170416151702.31"><vh>心得</vh></v>
+</v>
+<v t="leo.20170416151702.28"><vh>影片</vh>
+<v t="leo.20170416151702.29"><vh>Week1_影片</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -51,7 +80,7 @@
 <v t="leo.20170412002911.1"><vh>@edit 20170307.md</vh></v>
 <v t="leo.20170411180857.1"><vh>@edit 20170228.md</vh></v>
 <v t="leo.20170411034552.1"><vh>@edit 20170222.md</vh></v>
-<v t="yen.20170108171733.81"><vh>@path pages</vh>
+<v t="yen.20170108171733.81" a="E"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
 </v>
@@ -372,6 +401,129 @@ Diff...
 
 &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
 
+</t>
+<t tx="leo.20170416151702.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170416151702.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170416151702.28">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170416151702.29">##Week1_影片
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/El5B5GbT_JQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20170416151702.3">#Week1_上課筆記
+
+解決在開啟start時發生的錯誤</t>
+<t tx="leo.20170416151702.30">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170416151702.31">###心得:以前要找到自己電腦的IP位置都要從控制台裡的無線網路連線尋找
+現在只要在cmd裡打上ipconfig/all這個指令就會出現了 真是方便</t>
+<t tx="leo.20170416152308.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170416152308.2">&lt;img src="data/1491825695927.png" width="640" /&gt;
+</t>
+<t tx="leo.20170416152310.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170416152310.2">&lt;h3&gt;發生錯誤的原因:&lt;/h3&gt;
+&lt;h3&gt;Stunnel資料夾裡的Config/Styunnel.conf裡的IP和電腦的IP不同&lt;/h3&gt;</t>
+<t tx="leo.20170416152314.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170416152314.2">&lt;h3&gt;可以使用cmd裡使用ipconfig/all的指令找到電腦的IP位置&lt;/h3&gt;
+&lt;img src="data/1491825725528.png" width="640" /&gt;</t>
+<t tx="leo.20170416152315.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170416152315.2">&lt;img src="data/1491825744932.png" width="800" /&gt;
+</t>
+<t tx="leo.20170416152609.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170416152609.2">&lt;h3&gt;並將其複製貼到Styunnel.conf裡&lt;/h3&gt;
+&lt;img src="data/1491825778980.png" width="640" /&gt;</t>
+<t tx="leo.20170416152610.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170416152610.2">&lt;img src="data/1491825788615.png" width="800" /&gt;
 </t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
