@@ -68,7 +68,7 @@
 <v t="leo.20170416151702.29"><vh>Week1_影片</vh></v>
 </v>
 </v>
-<v t="leo.20170417020333.1" a="E"><vh>20170228第二週上課筆記</vh>
+<v t="leo.20170417020333.1"><vh>20170228第二週上課筆記</vh>
 <v t="leo.20170417020333.2"><vh>上課內容</vh>
 <v t="leo.20170417020333.3"><vh>上課大綱</vh></v>
 </v>
@@ -109,7 +109,7 @@
 <v t="leo.20170417020333.17"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170417023021.1" a="E"><vh>20170307第三週上課筆記</vh>
+<v t="leo.20170417023021.1"><vh>20170307第三週上課筆記</vh>
 <v t="leo.20170417023021.2" a="E"><vh>上課內容</vh>
 <v t="leo.20170417023021.3"><vh>上課大綱</vh></v>
 </v>
@@ -145,6 +145,38 @@
 </v>
 <v t="leo.20170417023021.30" a="E"><vh>心得</vh>
 <v t="leo.20170417023021.31"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20170417024125.1" a="E"><vh>20170314第四週上課筆記</vh>
+<v t="leo.20170417024125.2" a="E"><vh>上課內容</vh>
+<v t="leo.20170417024125.3"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170417024125.4" a="E"><vh>1</vh>
+<v t="leo.20170417024125.5"><vh>1</vh></v>
+</v>
+<v t="leo.20170417024125.6" a="E"><vh>2</vh>
+<v t="leo.20170417024125.7"><vh>2</vh></v>
+</v>
+<v t="leo.20170417024125.8" a="E"><vh>3</vh>
+<v t="leo.20170417024125.9"><vh>3</vh></v>
+</v>
+<v t="leo.20170417024125.10" a="E"><vh>4</vh>
+<v t="leo.20170417024125.11"><vh>4</vh></v>
+</v>
+<v t="leo.20170417024125.12" a="E"><vh>5</vh>
+<v t="leo.20170417024125.13"><vh>5</vh></v>
+</v>
+<v t="leo.20170417024125.14" a="E"><vh>6</vh>
+<v t="leo.20170417024125.15"><vh>6</vh></v>
+</v>
+<v t="leo.20170417024125.16" a="E"><vh>7</vh>
+<v t="leo.20170417024125.17"><vh>7</vh></v>
+</v>
+<v t="leo.20170417024125.18" a="E"><vh>8</vh>
+<v t="leo.20170417024125.19"><vh>8</vh></v>
+</v>
+<v t="leo.20170417024125.20" a="E"><vh>9</vh>
+<v t="leo.20170417024125.21"><vh>9</vh></v>
 </v>
 </v>
 </v>
@@ -942,6 +974,140 @@ Diff...
 </t>
 <t tx="leo.20170417023021.9">&lt;h3&gt;並匯出成STL檔&lt;/h3&gt;
 &lt;p&gt;&lt;img src="data/1491898384936.png" width="480" /&gt;</t>
+<t tx="leo.20170417024125.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170417024125.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417024125.11">&lt;h3&gt;影片&lt;/h3&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/eqm44sarkg4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170417024125.12">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417024125.13">&lt;h3&gt;二.&lt;/h3&gt;
+&lt;h3&gt;繪製出所需零件 ，底座、軸及單連桿&lt;/h3&gt;</t>
+<t tx="leo.20170417024125.14">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417024125.15">&lt;p&gt;&lt;img src="data/1491924165953.png" width="480" /&gt;</t>
+<t tx="leo.20170417024125.16">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417024125.17">&lt;h3&gt;並將其組立起來&lt;/h3&gt;
+&lt;p&gt;&lt;img src="data/1491924243593.png" width="320" /&gt;
+</t>
+<t tx="leo.20170417024125.18">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417024125.19">&lt;h3&gt;影片&lt;/h3&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/H9Lxk_K4SlY" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170417024125.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417024125.20">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417024125.21">&lt;h3&gt;心得&lt;/h3&gt;
+&lt;h3&gt;兩個繪圖軟體的鍵盤指令都不相同，在使用過程中很容易就搞混了，希望可以經過多次練習來習慣使用他們。&lt;/h3&gt;</t>
+<t tx="leo.20170417024125.3">#Week4_上課筆記
+&lt;h3&gt;一.在Onshape繪製單連桿機構&lt;/h3&gt;
+&lt;h3&gt;二.在SolveSpace繪製單連桿機構&lt;/h3&gt;</t>
+<t tx="leo.20170417024125.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417024125.5">&lt;h3&gt;一.&lt;/h3&gt;
+&lt;h3&gt;繪製出所需零件 ，底座、軸及單連桿&lt;/h3&gt;</t>
+<t tx="leo.20170417024125.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417024125.7">&lt;p&gt;&lt;img src="data/1491924065245.png" width="240" /&gt;</t>
+<t tx="leo.20170417024125.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417024125.9">&lt;h3&gt;並將其組立起來&lt;/h3&gt;
+&lt;p&gt;&lt;img src="data/1491923976248.png" width="480" /&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
