@@ -72,7 +72,7 @@
 <v t="leo.20170417020333.2"><vh>上課內容</vh>
 <v t="leo.20170417020333.3"><vh>上課大綱</vh></v>
 </v>
-<v t="leo.20170417020333.4" a="E"><vh>1</vh>
+<v t="leo.20170417020333.4"><vh>1</vh>
 <v t="leo.20170417020333.5"><vh>1</vh></v>
 </v>
 <v t="leo.20170417020333.6" a="E"><vh>2</vh>
@@ -102,17 +102,49 @@
 <v t="leo.20170417020736.1" a="E"><vh>10</vh>
 <v t="leo.20170417020736.2"><vh>10</vh></v>
 </v>
-<v t="leo.20170417020738.1" a="E"><vh>11</vh>
-<v t="leo.20170417020738.2"><vh>11</vh></v>
-</v>
-<v t="leo.20170417020704.1" a="E"><vh>12</vh>
-<v t="leo.20170417020704.2"><vh>12</vh></v>
-</v>
 <v t="leo.20170417020333.18" a="E"><vh>影片</vh>
 <v t="leo.20170417020333.19"><vh>Week1_影片</vh></v>
 </v>
 <v t="leo.20170417020333.16" a="E"><vh>心得</vh>
 <v t="leo.20170417020333.17"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20170417023021.1" a="E"><vh>20170307第三週上課筆記</vh>
+<v t="leo.20170417023021.2" a="E"><vh>上課內容</vh>
+<v t="leo.20170417023021.3"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170417023021.4" a="E"><vh>1</vh>
+<v t="leo.20170417023021.5"><vh>1</vh></v>
+</v>
+<v t="leo.20170417023021.6" a="E"><vh>2</vh>
+<v t="leo.20170417023021.7"><vh>2</vh></v>
+</v>
+<v t="leo.20170417023021.8" a="E"><vh>3</vh>
+<v t="leo.20170417023021.9"><vh>3</vh></v>
+</v>
+<v t="leo.20170417023021.10" a="E"><vh>4</vh>
+<v t="leo.20170417023021.11"><vh>4</vh></v>
+</v>
+<v t="leo.20170417023021.12" a="E"><vh>5</vh>
+<v t="leo.20170417023021.13"><vh>5</vh></v>
+</v>
+<v t="leo.20170417023021.14" a="E"><vh>6</vh>
+<v t="leo.20170417023021.15"><vh>6</vh></v>
+</v>
+<v t="leo.20170417023021.16" a="E"><vh>7</vh>
+<v t="leo.20170417023021.17"><vh>7</vh></v>
+</v>
+<v t="leo.20170417023021.18" a="E"><vh>8</vh>
+<v t="leo.20170417023021.19"><vh>8</vh></v>
+</v>
+<v t="leo.20170417023021.20" a="E"><vh>9</vh>
+<v t="leo.20170417023021.21"><vh>9</vh></v>
+</v>
+<v t="leo.20170417023021.28" a="E"><vh>影片</vh>
+<v t="leo.20170417023021.29"><vh>Week1_影片</vh></v>
+</v>
+<v t="leo.20170417023021.30" a="E"><vh>心得</vh>
+<v t="leo.20170417023021.31"><vh>心得</vh></v>
 </v>
 </v>
 </v>
@@ -719,19 +751,6 @@ Diff...
 <t tx="leo.20170417020702.2">&lt;h3&gt;再開起課程範例裡的連桿&lt;/h3&gt;
 &lt;h3&gt;利用點與點的重合、線的共線及點與面的重合，限制桿子的作動&lt;/h3&gt;
 &lt;p&gt;&lt;img src="data/1491829214980.png" width="320" /&gt;</t>
-<t tx="leo.20170417020704.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20170417020704.2">&lt;img src="data/1491825788615.png" width="800" /&gt;
-</t>
 <t tx="leo.20170417020736.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -745,19 +764,6 @@ Diff...
 </t>
 <t tx="leo.20170417020736.2">&lt;h3&gt;可以用object/item shift調整z軸高度(記得單位是公尺)&lt;/h3&gt;
 &lt;p&gt;&lt;img src="data/1491829303260.png" width="320" /&gt;</t>
-<t tx="leo.20170417020738.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20170417020738.2">&lt;img src="data/1491825788615.png" width="800" /&gt;
-</t>
 <t tx="leo.20170417020740.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -773,6 +779,169 @@ Diff...
 &lt;h3&gt;再使用V-rep裡的Import/Mash開啟&lt;/h3&gt;
 &lt;h3&gt;開啟時四連桿機構會鑲進地面&lt;/h3&gt;
 &lt;p&gt;&lt;img src="data/1491829268028.png" width="320" /&gt;</t>
+<t tx="leo.20170417023021.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170417023021.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417023021.11">&lt;h3&gt;再使用V-rep裡的ImportMash開啟&lt;/h3&gt;
+&lt;p&gt;&lt;img src="data/1491898218971.png" width="480" /&gt;</t>
+<t tx="leo.20170417023021.12">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417023021.13">&lt;h3&gt;影片&lt;/h3&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/qN7bP4QnZ-Q" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170417023021.14">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417023021.15">&lt;h3&gt;二.&lt;/h3&gt;
+&lt;h3&gt;先畫出30-50-60-60的四連桿草圖&lt;/h3&gt;
+&lt;h3&gt;並在50桿子上畫出一正三角形&lt;/h3&gt;</t>
+<t tx="leo.20170417023021.16">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417023021.17">&lt;p&gt;&lt;img src="data/1491904964296.png" width="480" /&gt;</t>
+<t tx="leo.20170417023021.18">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417023021.19">&lt;h3&gt;點選正三角形的頂點&lt;/h3&gt;
+&lt;h3&gt;並利用Analyze裡的Trace point繪製出頂點的運動軌跡&lt;/h3&gt;
+&lt;p&gt;&lt;img src="data/1491897634328.png" width="480" /&gt;</t>
+<t tx="leo.20170417023021.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417023021.20">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417023021.21">&lt;h3&gt;可以在Excel中看到頂點運動軌跡的坐標&lt;/h3&gt;
+&lt;p&gt;&lt;img src="data/1491897672049.png" width="480" /&gt;</t>
+<t tx="leo.20170417023021.28">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170417023021.29">&lt;h3&gt;影片&lt;/h3&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/eqLS8OjwIgM" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170417023021.3">#Week3_上課筆記
+
+&lt;h3&gt;一.使用Onshape3D繪圖軟體30-50-60cm比例之四連桿機構,並以V-rep開啟&lt;/h3&gt;
+&lt;h3&gt;二.使用solvespace學會畫出頂點的運動軌跡。&lt;/h3&gt;</t>
+<t tx="leo.20170417023021.30">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417023021.31">&lt;h3&gt;心得:在多次練習下，已經會熟練地使用onshape裡面的鍵盤指令，相信在之後有關於onshape作業可以更有效率地完成。&lt;/h3&gt;</t>
+<t tx="leo.20170417023021.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417023021.5">&lt;h3&gt;一.&lt;/h3&gt;
+&lt;h3&gt;首先將各尺寸的連桿實體畫出&lt;/h3&gt;
+&lt;p&gt;&lt;img src="data/1491898085992.png" width="320" /&gt;
+</t>
+<t tx="leo.20170417023021.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417023021.7">&lt;h3&gt;再開啟組合圖&lt;/h3&gt;
+&lt;h3&gt;利用點與點的重合、線的共線及點與面的重合，限制桿子的作動&lt;/h3&gt;
+&lt;p&gt;&lt;img src="data/1491897996166.png" width="480" /&gt;</t>
+<t tx="leo.20170417023021.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170417023021.9">&lt;h3&gt;並匯出成STL檔&lt;/h3&gt;
+&lt;p&gt;&lt;img src="data/1491898384936.png" width="480" /&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
