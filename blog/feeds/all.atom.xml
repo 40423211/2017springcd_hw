@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-03-21T11:00:00+08:00</updated><entry><title>Week5 20170321</title><link href="./2017spring-cd%20W5.html" rel="alternate"></link><published>2017-03-21T11:00:00+08:00</published><updated>2017-03-21T11:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-03-21:./2017spring-cd W5.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-03-21T11:00:00+08:00</updated><entry><title>Week5 20170321</title><link href="./2017spring-cd%20W5.html" rel="alternate"></link><published>2017-03-21T11:00:00+08:00</published><updated>2017-03-21T11:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-03-21:./2017spring-cd W5.html</id><summary type="html">&lt;h3&gt;本周作業&lt;/h3&gt;
 
-&lt;h3&gt;把Onshape繪製單連桿機構在v-rep中開啟，並使他作動。&lt;/h3&gt;
+&lt;h3&gt;一.把Onshape繪製單連桿機構在v-rep中開啟，並使他作動。&lt;/h3&gt;
+
+
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
@@ -60,11 +62,19 @@
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h3&gt;影片&lt;/h3&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/uxO4HiF6DaE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;h3&gt;心得&lt;/h3&gt;</summary><category term="syllabus"></category><category term="w5"></category></entry><entry><title>Week4 20170314</title><link href="./2017spring-cd%20W4.html" rel="alternate"></link><published>2017-03-14T11:00:00+08:00</published><updated>2017-03-14T11:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-03-14:./2017spring-cd W4.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;h3&gt;心得:第一次要將v-rep裡的單連桿機構作動耗費了我許多時間，但是在多次的操作下已經越來越清楚連桿機構作動的原理，在下次有關於v-rep的作業應該可以更快速地完成。&lt;/h3&gt;</summary><category term="syllabus"></category><category term="w5"></category></entry><entry><title>Week4 20170314</title><link href="./2017spring-cd%20W4.html" rel="alternate"></link><published>2017-03-14T11:00:00+08:00</published><updated>2017-03-14T11:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-03-14:./2017spring-cd W4.html</id><summary type="html">&lt;h3&gt;本週作業&lt;/h3&gt;
 
 &lt;h3&gt;一.在Onshape繪製單連桿機構&lt;/h3&gt;
 
+&lt;h3&gt;二.在SolveSpace繪製單連桿機構&lt;/h3&gt;
+
+
+
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h3&gt;一.&lt;/h3&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
@@ -79,8 +89,7 @@
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/eqm44sarkg4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h3&gt;一.在Onshape繪製單連桿機構&lt;/h3&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;二.&lt;/h3&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h3&gt;繪製出所需零件 ，底座、軸及單連桿&lt;/h3&gt;
 &lt;p&gt;&lt;img src="../data/1491924165953.png" width="800" /&gt;
@@ -93,11 +102,19 @@
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h3&gt;心得&lt;/h3&gt;
-&lt;h3&gt;兩個繪圖軟體的鍵盤指令都不相同，在使用過程中很容易就搞混了，希望可以經過多次練習來習慣使用他們。&lt;/h3&gt;</summary><category term="syllabus"></category><category term="w4"></category></entry><entry><title>Week3 20170307</title><link href="./2017spring-cd%20W3.html" rel="alternate"></link><published>2017-03-07T11:00:00+08:00</published><updated>2017-03-07T11:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-03-07:./2017spring-cd W3.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;h3&gt;兩個繪圖軟體的鍵盤指令都不相同，在使用過程中很容易就搞混了，希望可以經過多次練習來習慣使用他們。&lt;/h3&gt;</summary><category term="syllabus"></category><category term="w4"></category></entry><entry><title>Week3 20170307</title><link href="./2017spring-cd%20W3.html" rel="alternate"></link><published>2017-03-07T11:00:00+08:00</published><updated>2017-03-07T11:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-03-07:./2017spring-cd W3.html</id><summary type="html">&lt;h3&gt;本週作業&lt;/h3&gt;
 
 &lt;h3&gt;一.使用Onshape3D繪圖軟體30-50-60cm比例之四連桿機構,並以V-rep開啟&lt;/h3&gt;
 
+&lt;h3&gt;二.使用solvespace學會畫出頂點的運動軌跡。&lt;/h3&gt;
+
+
+
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h3&gt;一.&lt;/h3&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
@@ -119,8 +136,7 @@
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/qN7bP4QnZ-Q" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h3&gt;二.使用solvespace學會畫出頂點的運動軌跡。&lt;/h3&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;二.&lt;/h3&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h3&gt;先畫出30-50-60-60的四連桿草圖&lt;/h3&gt;
 &lt;h3&gt;並在50桿子上畫出一正三角形&lt;/h3&gt;
@@ -135,11 +151,19 @@
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h3&gt;影片&lt;/h3&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/eqLS8OjwIgM" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;h3&gt;心得&lt;/h3&gt;</summary><category term="syllabus"></category><category term="w3"></category></entry><entry><title>Week2 20170228</title><link href="./2017spring-cd%20W2.html" rel="alternate"></link><published>2017-02-28T11:00:00+08:00</published><updated>2017-02-28T11:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-02-28:./2017spring-cd W2.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;h3&gt;心得:在多次練習下，已經會熟練地使用onshape裡面的鍵盤指令，相信在之後有關於onshape作業可以更有效率地完成。&lt;/h3&gt;</summary><category term="syllabus"></category><category term="w3"></category></entry><entry><title>Week2 20170228</title><link href="./2017spring-cd%20W2.html" rel="alternate"></link><published>2017-02-28T11:00:00+08:00</published><updated>2017-02-28T11:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-02-28:./2017spring-cd W2.html</id><summary type="html">&lt;h3&gt;本週作業&lt;/h3&gt;
 
 &lt;h3&gt;一.利用python找出缺課人員&lt;/h3&gt;
 
+&lt;h3&gt;二.在SolveSpace畫出四連桿機構&lt;/h3&gt;
+
+
+
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h3&gt;一.&lt;/h3&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
@@ -157,9 +181,7 @@
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;h3&gt;二.在SolveSpace畫出四連桿機構&lt;/h3&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;二.&lt;/h3&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
@@ -190,9 +212,11 @@
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pohckQdL_1s" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h3&gt;心得:利用python找出缺課人員再上有使用電腦的課程來進行點名的話似乎比雲端點名系統還要方便。&lt;/h3&gt;
-&lt;h3&gt;使用SolveSpace畫出四連桿機構也算是複習上學期所使用的東西，希望在將來的課程中可以進階的使用到SolveSpace這個軟體。&lt;/h3&gt;</summary><category term="syllabus"></category><category term="w2"></category></entry><entry><title>Week1 20170221</title><link href="./2017spring-cd%20W1.html" rel="alternate"></link><published>2017-02-21T11:00:00+08:00</published><updated>2017-02-21T11:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-02-21:./2017spring-cd W1.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;h3&gt;使用SolveSpace畫出四連桿機構也算是複習上學期所使用的東西，希望在將來的課程中可以進階的使用到SolveSpace這個軟體。&lt;/h3&gt;</summary><category term="syllabus"></category><category term="w2"></category></entry><entry><title>Week1 20170221</title><link href="./2017spring-cd%20W1.html" rel="alternate"></link><published>2017-02-21T11:00:00+08:00</published><updated>2017-02-21T11:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-02-21:./2017spring-cd W1.html</id><summary type="html">&lt;h3&gt;本週作業&lt;/h3&gt;
 
-&lt;h3&gt;解決在開啟start時發生的錯誤&lt;/h3&gt;
+&lt;h3&gt;一.解決在開啟start時發生的錯誤&lt;/h3&gt;
+
+
 
 &lt;p&gt;&lt;img src="../data/1491825695927.png" width="width="50%" height="50%" /&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -214,4 +238,4 @@
 &lt;h3&gt;影片&lt;/h3&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/El5B5GbT_JQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;心得:以前要找到自己電腦的IP位置都要從控制台裡的無線網路連線尋找
-現在只要在cmd裡打上ipconfig/all這個指令就會出現了 真是方便&lt;/p&gt;</summary><category term="syllabus"></category><category term="w1"></category></entry></feed>
+現在只要在cmd裡打上ipconfig/all這個指令就會出現了，真是方便。&lt;/p&gt;</summary><category term="syllabus"></category><category term="w1"></category></entry></feed>
