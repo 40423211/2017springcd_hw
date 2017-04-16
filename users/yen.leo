@@ -69,7 +69,7 @@
 </v>
 </v>
 <v t="leo.20170417020333.1" a="E"><vh>20170228第二週上課筆記</vh>
-<v t="leo.20170417020333.2" a="E"><vh>上課內容</vh>
+<v t="leo.20170417020333.2"><vh>上課內容</vh>
 <v t="leo.20170417020333.3"><vh>上課大綱</vh></v>
 </v>
 <v t="leo.20170417020333.4" a="E"><vh>1</vh>
@@ -588,7 +588,7 @@ Diff...
 						
 </t>
 <t tx="leo.20170417020333.11">&lt;h3&gt;然後可以利用w2b_cadlab這裡面的程式碼來確認修課學生的缺曠課&lt;/h3&gt;
-&lt;p&gt;&lt;img src="data/1491827904947.png" width="320" /&gt;</t>
+&lt;p&gt;&lt;img src="data/1491827904947.png" width="480" /&gt;</t>
 <t tx="leo.20170417020333.12">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -677,7 +677,7 @@ Diff...
 
 						
 </t>
-<t tx="leo.20170417020333.7">&lt;p&gt;&lt;img src="data/1491828314187.png" width="320" /&gt;</t>
+<t tx="leo.20170417020333.7">&lt;p&gt;&lt;img src="data/1491828314187.png" width="480" /&gt;</t>
 <t tx="leo.20170417020333.8">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -690,7 +690,7 @@ Diff...
 						
 </t>
 <t tx="leo.20170417020333.9">&lt;h3&gt;啟w2b_cadlab可以看到有修這一門課的學生&lt;/h3&gt;
-&lt;p&gt;&lt;img src="data/1491828335460.png" width="320" /&gt;</t>
+&lt;p&gt;&lt;img src="data/1491828335460.png" width="180" /&gt;</t>
 <t tx="leo.20170417020700.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
