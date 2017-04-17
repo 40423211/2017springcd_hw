@@ -179,51 +179,68 @@
 <v t="leo.20170417024125.21"><vh>9</vh></v>
 </v>
 </v>
-<v t="leo.20170417030023.1" a="E"><vh>20170321第五週上課筆記</vh>
-<v t="leo.20170417030023.2" a="E"><vh>上課內容</vh>
+<v t="leo.20170417030023.1"><vh>20170321第五週上課筆記</vh>
+<v t="leo.20170417030023.2"><vh>上課內容</vh>
 <v t="leo.20170417030023.3"><vh>上課大綱</vh></v>
 </v>
-<v t="leo.20170417030023.4" a="E"><vh>1</vh>
+<v t="leo.20170417030023.4"><vh>1</vh>
 <v t="leo.20170417030023.5"><vh>1</vh></v>
 </v>
-<v t="leo.20170417030023.6" a="E"><vh>2</vh>
+<v t="leo.20170417030023.6"><vh>2</vh>
 <v t="leo.20170417030023.7"><vh>2</vh></v>
 </v>
-<v t="leo.20170417030023.8" a="E"><vh>3</vh>
+<v t="leo.20170417030023.8"><vh>3</vh>
 <v t="leo.20170417030023.9"><vh>3</vh></v>
 </v>
-<v t="leo.20170417030023.10" a="E"><vh>4</vh>
+<v t="leo.20170417030023.10"><vh>4</vh>
 <v t="leo.20170417030023.11"><vh>4</vh></v>
 </v>
-<v t="leo.20170417030023.12" a="E"><vh>5</vh>
+<v t="leo.20170417030023.12"><vh>5</vh>
 <v t="leo.20170417030023.13"><vh>5</vh></v>
 </v>
-<v t="leo.20170417030023.14" a="E"><vh>6</vh>
+<v t="leo.20170417030023.14"><vh>6</vh>
 <v t="leo.20170417030023.15"><vh>6</vh></v>
 </v>
-<v t="leo.20170417030023.16" a="E"><vh>7</vh>
+<v t="leo.20170417030023.16"><vh>7</vh>
 <v t="leo.20170417030023.17"><vh>7</vh></v>
 </v>
-<v t="leo.20170417030023.18" a="E"><vh>8</vh>
+<v t="leo.20170417030023.18"><vh>8</vh>
 <v t="leo.20170417030023.19"><vh>8</vh></v>
 </v>
-<v t="leo.20170417030023.20" a="E"><vh>9</vh>
+<v t="leo.20170417030023.20"><vh>9</vh>
 <v t="leo.20170417030023.21"><vh>9</vh></v>
 </v>
-<v t="leo.20170417030023.22" a="E"><vh>10</vh>
+<v t="leo.20170417030023.22"><vh>10</vh>
 <v t="leo.20170417030023.23"><vh>10</vh></v>
 </v>
-<v t="leo.20170417030023.24" a="E"><vh>11</vh>
+<v t="leo.20170417030023.24"><vh>11</vh>
 <v t="leo.20170417030023.25"><vh>11</vh></v>
 </v>
-<v t="leo.20170417030407.1" a="E"><vh>12</vh>
+<v t="leo.20170417030407.1"><vh>12</vh>
 <v t="leo.20170417030407.2"><vh>12</vh></v>
 </v>
-<v t="leo.20170417030409.1" a="E"><vh>13</vh>
+<v t="leo.20170417030409.1"><vh>13</vh>
 <v t="leo.20170417030409.2"><vh>13</vh></v>
 </v>
-<v t="leo.20170417030410.1" a="E"><vh>14</vh>
+<v t="leo.20170417030410.1"><vh>14</vh>
 <v t="leo.20170417030410.2"><vh>14</vh></v>
+</v>
+</v>
+<v t="leo.20170418014545.1" a="E"><vh>20170321第六週上課筆記</vh>
+<v t="leo.20170418014545.2" a="E"><vh>上課內容</vh>
+<v t="leo.20170418014545.3"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170418014545.4" a="E"><vh>1</vh>
+<v t="leo.20170418014545.5"><vh>1</vh></v>
+</v>
+<v t="leo.20170418014545.6" a="E"><vh>2</vh>
+<v t="leo.20170418014545.7"><vh>2</vh></v>
+</v>
+<v t="leo.20170418014545.8" a="E"><vh>3</vh>
+<v t="leo.20170418014545.9"><vh>3</vh></v>
+</v>
+<v t="leo.20170418014545.10" a="E"><vh>4</vh>
+<v t="leo.20170418014545.11"><vh>4</vh></v>
 </v>
 </v>
 </v>
@@ -233,11 +250,12 @@
 </v>
 <v t="yen.20170108171733.71" a="E"><vh>@path content</vh>
 <v t="leo.20170303212553.1"><vh>@@edit 20170108.md</vh></v>
-<v t="leo.20170323171014.1"><vh>@edit 20170321.md</vh></v>
+<v t="leo.20170323171014.1"><vh>@edit 20170329.md</vh></v>
+<v t="leo.20170418014608.1"><vh>@edit 20170321.md</vh></v>
 <v t="leo.20170412044611.1"><vh>@edit 20170314.md</vh></v>
 <v t="leo.20170412002911.1"><vh>@edit 20170307.md</vh></v>
 <v t="leo.20170411180857.1"><vh>@edit 20170228.md</vh></v>
-<v t="leo.20170411034552.1"><vh>@edit 20170222.md</vh></v>
+<v t="leo.20170411034552.1"><vh>@edit 20170221.md</vh></v>
 <v t="yen.20170108171733.81" a="E"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -1355,6 +1373,75 @@ Diff...
 						
 </t>
 <t tx="leo.20170417030410.2">&lt;h3&gt;心得:第一次要將v-rep裡的單連桿機構作動耗費了我許多時間，但是在多次的操作下已經越來越清楚連桿機構作動的原理，在下次有關於v-rep的作業應該可以更快速地完成。&lt;/h3&gt;</t>
+<t tx="leo.20170418014545.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170418014545.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170418014545.11">&lt;h3&gt;心得:經過上禮拜的練習已經熟練如何使用onshape繪製零件並組合起來，還有V-rep的作動，這禮拜的功課除了新使用的Dunny，其餘大致上來講已經沒有什麼難度了，相信在之後的作業也能越來越順利。&lt;/h3&gt;</t>
+<t tx="leo.20170418014545.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170418014545.3">#Week6_上課筆記
+
+&lt;h3&gt;一.把Onshape繪製四連桿機構在v-rep中開啟，並使他作動。&lt;/h3&gt;</t>
+<t tx="leo.20170418014545.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170418014545.5">&lt;h3&gt;首先要繪製出四連桿機構所需要的零件&lt;/h3&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/5FU8kXdqD6I" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170418014545.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170418014545.7">&lt;h3&gt;在開啟組合圖將他們組合起來&lt;/h3&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/7Gg2Bq9KA2M" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170418014545.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170418014545.9">&lt;h3&gt;在開啟V-rep把組合完的四連桿機構置入，並使他作動。&lt;/h3&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/SIe9ueZj5Es" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
