@@ -2,7 +2,7 @@
 <html lang="en"
 >
 <head>
-    <title>Week5 20170321 - 2017Spring 協同產品設計實習 (虎尾科大MDE)</title>
+    <title>期中測驗 - 2017Spring 協同產品設計實習 (虎尾科大MDE)</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -10,21 +10,20 @@
 
 
 
-<link rel="canonical" href="./2017spring-cd W5.html">
+<link rel="canonical" href="./2017spring-cd W10.html">
 
         <meta name="author" content="40423211" />
-        <meta name="keywords" content="syllabus,w5" />
-        <meta name="description" content="本周作業 一.把Onshape繪製單連桿機構在v-rep中開啟，並使他作動。" />
+        <meta name="keywords" content="syllabus,w10" />
 
         <meta property="og:site_name" content="2017Spring 協同產品設計實習 (虎尾科大MDE)" />
         <meta property="og:type" content="article"/>
-        <meta property="og:title" content="Week5 20170321"/>
-        <meta property="og:url" content="./2017spring-cd W5.html"/>
-        <meta property="og:description" content="本周作業 一.把Onshape繪製單連桿機構在v-rep中開啟，並使他作動。"/>
-        <meta property="article:published_time" content="2017-03-21" />
+        <meta property="og:title" content="期中測驗"/>
+        <meta property="og:url" content="./2017spring-cd W10.html"/>
+        <meta property="og:description" content=""/>
+        <meta property="article:published_time" content="2017-04-19" />
             <meta property="article:section" content="Course" />
             <meta property="article:tag" content="syllabus" />
-            <meta property="article:tag" content="w5" />
+            <meta property="article:tag" content="w10" />
             <meta property="article:author" content="40423211" />
 
 
@@ -132,10 +131,10 @@
         <article>
             <header class="page-header">
                 <h1>
-                    <a href="./2017spring-cd W5.html"
+                    <a href="./2017spring-cd W10.html"
                        rel="bookmark"
-                       title="Permalink to Week5 20170321">
-                        Week5   20170321
+                       title="Permalink to 期中測驗">
+                        期中測驗
                     </a>
                 </h1>
             </header>
@@ -145,7 +144,7 @@
 <footer class="post-info">
     <span class="label label-default">Date</span>
     <span class="published">
-        <i class="fa fa-calendar"></i><time datetime="2017-03-21T11:00:00+08:00"> 週二 21 三月 2017</time>
+        <i class="fa fa-calendar"></i><time datetime="2017-04-19T11:00:00+08:00"> 週三 19 四月 2017</time>
     </span>
             <span class="label label-default">By</span>
             <a href="./author/40423211.html"><i class="fa fa-user"></i> 40423211</a>
@@ -155,74 +154,74 @@
 <span class="label label-default">Tags</span>
 	<a href="./tag/syllabus.html">syllabus</a>
         /
-	<a href="./tag/w5.html">w5</a>
+	<a href="./tag/w10.html">w10</a>
     
 </footer><!-- /.post-info -->                    </div>
                 </div>
-                <h3>本周作業</h3>
+                <!-- PELICAN_END_SUMMARY -->
 
-<h3>一.把Onshape繪製單連桿機構在v-rep中開啟，並使他作動。</h3>
+<!-- 導入 Brython 標準程式庫 -->
 
+<script type="text/javascript" src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js">
+</script>
 
+<!-- 啟動 Brython -->
 
-<p><br></p>
+<script>
+window.onload=function(){
+brython(1);
+}
+</script>
 
-<p><br></p>
+<!-- 以下實際利用  Brython 畫四連桿 trace point 路徑-->
 
-<h3>使用V-rep裡的Import/Mash將已經畫完的單連桿機構開啟</h3>
+<canvas id="fourbar" width="600" height="400"></canvas>
 
-<p><img src="../data/1491940207384.png" width="width="50%" height="50%" /
-<p><br></p>
-<p><br></p>
-<h3>用object/item shift稍微調整X或Y軸</h3>
-<h3>以免等等叫出的馬達卡在機構中(記得單位是公尺)<h3>
-<p><img src="../data/1491939137190.png" width="width="50%" height="50%" /
-<p><br></p>
-<p><br></p>
-<h3>在旁邊白色地方處點滑鼠右鍵，點選add>Joint>Revolute將馬達開啟</h3>
-<p><img src="../data/1.png" width="width="50%" height="50%" /
-<p><br></p>
-<p><br></p>
-<h3>在旁邊的馬達圖案點選兩下</h3>
-<h3>點選在右邊的Length和Diameter修改成自己需要的尺寸</h3>
-<p><img src="../data/2.png" width="width="50%" height="50%" /
-<p><br></p>
-<p><br></p>
-<h3>點選左上角Edit>Grouping/Merging>Divide selected shapes</h3>
-<h3>將單連桿機構分成三個零件</h3>
-<p><img src="../data/3.png" width="width="50%" height="50%" /
-<p><img src="../data/4.png" width="width="50%" height="50%" /
-<p><br></p>
-<p><br></p>
-<h3>再來要將馬達移位至傳動軸的位置</h3>
-<h3>先點選在馬達 在按Ctrl點選傳動軸</h3>
-<p><img src="../data/5.png" width="width="50%" height="50%" /
-<p><br></p>
-<p><br></p>
-<h3>再點選Object/Item裡的Apply to selection</h3>
-<p><img src="../data/6.png" width="width="50%" height="50%" /
-<p><br></p>
-<p><br></p>
-<h3>之後馬達就會移位至傳動軸的位置</h3>
-<p><img src="../data/1491941849790.png" width="width="50%" height="50%" /
-<p><br></p>
-<p><br></p>
-<h3>將傳動軸的零件抑制</h3>
-<p><img src="../data/7.png" width="width="50%" height="50%" /
-<p><br></p>
-<p><br></p>
-<h3>並將上面的零件改成從動件</h3>
-<p><img src="../data/8.png" width="width="50%" height="50%" /
-<p><br></p>
-<p><br></p>
-<h3>再來只要輸入自己所要的轉速就可以移動了</h3>
-<p><img src="../data/9.png" width="width="50%" height="50%" /
-<p><br></p>
-<p><br></p>
-<p><br></p>
-<h3>影片</h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uxO4HiF6DaE" frameborder="0" allowfullscreen></iframe>
-<h3>心得:第一次要將v-rep裡的單連桿機構作動耗費了我許多時間，但是在多次的操作下已經越來越清楚連桿機構作動的原理，在下次有關於v-rep的作業應該可以更快速地完成。</h3>
+<div id="container1"></div>
+
+<script type="text/python3">
+from browser import document as doc
+from browser import html
+import math
+# 準備繪圖畫布
+canvas = doc["fourbar"]
+container1 = doc['container1']
+ctx = canvas.getContext("2d")
+
+fourbar_data = open("./../data/Length =40.csv").read()
+fourbar_list = fourbar_data.splitlines()
+#container1 <= fourbar_list[0]
+# 以下可以利用 ctx 物件進行畫圖
+# 先畫一條直線
+ctx.beginPath()
+# 設定線的寬度為 1 個單位
+ctx.lineWidth = 1
+# 利用 transform 將 y 座標反轉, 且 offset canvas.height
+# (X scale, X skew, Y skew, Y scale, X offset, Y offset)
+# 配合圖形位置進行座標轉換
+ctx.transform(1, 0, 0, -1, canvas.width/2+250, canvas.height/2+100)
+# 畫出 x 與 y 座標線
+# 各座標值放大 8 倍
+ratio = 8
+ctx.moveTo(0, 0)
+ctx.lineTo(-30*ratio, 0)
+start_point = fourbar_list[0].split(",")
+ctx.moveTo(float(start_point[0])*ratio, float(start_point[1])*ratio)
+count = 0
+for data in fourbar_list[1:]:
+    point = data.split(",")
+    #count = count + 1
+    #container1 <= str(count) + ":" + point[0] + "," + point[1]
+    #container1 <= html.BR()
+    ctx.lineTo(float(point[0])*ratio, float(point[1])*ratio)
+# 設定顏色為藍色, 也可以使用 "rgb(0, 0, 255)" 字串設定顏色值
+ctx.strokeStyle = "blue"
+# 實際執行畫線
+ctx.stroke()
+ctx.closePath()
+</script>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QSncxami-n8" frameborder="0" allowfullscreen></iframe>
             </div>
             <!-- /.entry-content -->
         </article>
