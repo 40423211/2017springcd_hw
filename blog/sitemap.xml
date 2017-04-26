@@ -5,64 +5,41 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<<<<<<< HEAD
-<lastmod>2017-04-26T00:14:53-00:00</lastmod>
-=======
-<lastmod>2017-04-19T11:01:24-00:00</lastmod>
->>>>>>> d256756cade090f634e6e5e3ae3d9d66507f3b90
+<lastmod>2017-04-26T09:10:58-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<<<<<<< HEAD
-<lastmod>2017-04-26T00:14:53-00:00</lastmod>
-=======
-<lastmod>2017-04-19T11:01:24-00:00</lastmod>
->>>>>>> d256756cade090f634e6e5e3ae3d9d66507f3b90
+<lastmod>2017-04-26T09:10:58-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<<<<<<< HEAD
-<lastmod>2017-04-26T00:14:53-00:00</lastmod>
-=======
-<lastmod>2017-04-19T11:01:24-00:00</lastmod>
->>>>>>> d256756cade090f634e6e5e3ae3d9d66507f3b90
+<lastmod>2017-04-26T09:10:58-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<<<<<<< HEAD
-<lastmod>2017-04-26T00:14:53-00:00</lastmod>
-=======
-<lastmod>2017-04-19T11:01:24-00:00</lastmod>
->>>>>>> d256756cade090f634e6e5e3ae3d9d66507f3b90
+<lastmod>2017-04-26T09:10:58-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./pages/about/</loc>
-<lastmod>2017-04-19T10:52:06+08:00</lastmod>
+<lastmod>2017-04-18T20:06:18+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./2017spring-cd W10.html</loc>
-<lastmod>2017-04-19T11:00:00+08:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./2017spring-cd W9.html</loc>
 <lastmod>2017-04-19T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -118,41 +95,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<<<<<<< HEAD
-<loc>./tag/w2.html</loc>
-<lastmod>2017-02-28T11:00:00+08:06</lastmod>
-=======
-<loc>./tag/w3.html</loc>
-<lastmod>2017-03-07T11:00:00+08:06</lastmod>
->>>>>>> d256756cade090f634e6e5e3ae3d9d66507f3b90
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./tag/syllabus.html</loc>
-<lastmod>2017-04-19T11:00:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<<<<<<< HEAD
-<loc>./tag/w3.html</loc>
-<lastmod>2017-03-07T11:00:00+08:06</lastmod>
-=======
-<loc>./tag/w1.html</loc>
-<lastmod>2017-02-21T11:02:00+08:06</lastmod>
->>>>>>> d256756cade090f634e6e5e3ae3d9d66507f3b90
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<<<<<<< HEAD
-<loc>./tag/w9.html</loc>
-<lastmod>2017-04-19T11:00:00+08:06</lastmod>
-=======
 <loc>./tag/w10.html</loc>
 <lastmod>2017-04-19T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -160,14 +102,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/w6.html</loc>
-<lastmod>2017-03-29T11:00:00+08:06</lastmod>
->>>>>>> d256756cade090f634e6e5e3ae3d9d66507f3b90
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>./tag/syllabus.html</loc>
 <lastmod>2017-04-19T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -175,37 +109,43 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<<<<<<< HEAD
-<loc>./tag/w1.html</loc>
-<lastmod>2017-02-21T11:02:00+08:06</lastmod>
-=======
 <loc>./tag/w5.html</loc>
 <lastmod>2017-03-21T11:00:00+08:06</lastmod>
->>>>>>> d256756cade090f634e6e5e3ae3d9d66507f3b90
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<<<<<<< HEAD
-<loc>./tag/w4.html</loc>
-<lastmod>2017-03-14T11:00:00+08:06</lastmod>
-=======
 <loc>./tag/w2.html</loc>
 <lastmod>2017-02-28T11:00:00+08:06</lastmod>
->>>>>>> d256756cade090f634e6e5e3ae3d9d66507f3b90
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<<<<<<< HEAD
+<loc>./tag/w3.html</loc>
+<lastmod>2017-03-07T11:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./tag/w6.html</loc>
 <lastmod>2017-03-29T11:00:00+08:06</lastmod>
-=======
-<loc>./author/40423211.html</loc>
-<lastmod>2017-04-19T11:00:00+08:06</lastmod>
->>>>>>> d256756cade090f634e6e5e3ae3d9d66507f3b90
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/w1.html</loc>
+<lastmod>2017-02-21T11:02:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/w4.html</loc>
+<lastmod>2017-03-14T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
