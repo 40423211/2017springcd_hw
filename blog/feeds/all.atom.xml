@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-05-31T09:00:00+08:00</updated><entry><title>協同產品設計實習第十五週練習</title><link href="./2017spring-cd%20W15.html" rel="alternate"></link><published>2017-05-31T09:00:00+08:00</published><updated>2017-05-31T09:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-05-31:./2017spring-cd W15.html</id><summary type="html">&lt;h3&gt;一.繪製一個半徑為 250 畫素, 壓力角 20, 齒數為 36 齒的漸開線正齒輪輪廓&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-05-31T09:00:00+08:00</updated><entry><title>協同產品設計實習第十五週練習</title><link href="./2017spring-cd%20W15.html" rel="alternate"></link><published>2017-05-31T09:00:00+08:00</published><updated>2017-05-31T09:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-05-31:./2017spring-cd W15.html</id><summary type="html">&lt;h3&gt;一.繪製課堂上老師所指定的作業&lt;/h3&gt;
 
 
 
-&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;!-- 導入 Brython 標準程式庫 --&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;script src="../data/Brython-3.3.1/brython.js"&gt;&lt;/script&gt;
+&lt;h3&gt;1. 請以 W15 練習為網誌標題, 800x600 為畫布大小, 在畫布正中央畫一個半徑為 250 畫素, 壓力角 20, 齒數為 36 齒, 且只有上半齒形的漸開線正齒輪輪廓.&lt;/h3&gt;
 
-&lt;script src="../data/Brython-3.3.1/brython_stdlib.js"&gt;&lt;/script&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;!-- 啟動 Brython --&gt;
 
@@ -29,6 +31,7 @@ brython({debug:1, pythonpath:['./../data/py']});
 &lt;script type="text/python3"&gt;
 from browser import document as doc
 import math
+
 # deg 為角度轉為徑度的轉換因子
 deg = math.pi/180.
 # 定義 Spur 類別
@@ -56,23 +59,15 @@ class Spur(object):
         imax = 15
         # 在輸入的畫布上繪製直線, 由圓心到節圓 y 軸頂點畫一直線
         self.create_line(midx, midy, midx, midy-rp)
-        # 畫出 rp 圓, 畫圓函式尚未定義
-        #create_oval(midx, midy, midx+rp, midy+rp, width=2)
-        # a 為模數 (代表公制中齒的大小), 模數為節圓直徑(稱為節徑)除以齒數
-        # 模數也就是齒冠大小
+
         a=2*rp/n
         # d 為齒根大小, 為模數的 1.157 或 1.25倍, 這裡採 1.25 倍
         d=2.5*rp/n
         # ra 為齒輪的外圍半徑
         ra=rp+a
-        # 畫出 ra 圓, 畫圓函式尚未定義
-        #create_oval(midx-ra, midy-ra, midx+ra, midy+ra, width=1)
-        # rb 則為齒輪的基圓半徑
-        # 基圓為漸開線長齒之基準圓
+
         rb=rp*math.cos(pa*deg)
-        # 畫出 rb 圓 (基圓), 畫圓函式尚未定義
-        #create_oval(midx-rb, midy-rb, midx+rb, midy+rb, width=1)
-        # rd 為齒根圓半徑
+
         rd=rp-d
         # 當 rd 大於 rb 時, 漸開線並非畫至 rb, 而是 rd
         # 畫出 rd 圓 (齒根圓), 畫圓函式尚未定義
@@ -157,9 +152,26 @@ n = 36
 # 壓力角
 pa = 20
 Spur(ctx).Gear(x, y, r, n, pa, "blue")
+
+ctx.beginPath()
+ctx.fillStyle = "#0000cd"
+ctx.font = "50px Arial"
+ctx.fillText("40423211 ",300,400)
+ctx.stroke()
+
 &lt;/script&gt;
 
-&lt;h3&gt;二.&lt;/h3&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h3&gt;影片&lt;/h3&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Xh3qppVNY88" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;2. 完成後, 請在正齒輪中央寫上自己的學號, 並建立第二個 800x600 的畫布, 請畫出只有一齒輪廓, 且充滿畫布 80% 範圍的正齒輪, 且該齒輪廓下方水平線, 連接兩端齒根圓點交的直線以紅色繪製, 且在齒輪下方以藍色字元寫上自己的學號.&lt;/h3&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
@@ -178,9 +190,9 @@ brython({debug:1, pythonpath:['./../data/py']});
 
 &lt;!-- 以下實際利用  Brython 繪圖--&gt;
 
-&lt;canvas id="onegear" width="800" height="600"&gt;&lt;/canvas&gt;
+&lt;canvas id="onegear2" width="800" height="600"&gt;&lt;/canvas&gt;
 
-&lt;div id="onegear_div" width="800" height="20"&gt;&lt;/div&gt;
+&lt;div id="onegear2_div" width="800" height="20"&gt;&lt;/div&gt;
 
 &lt;script type="text/python3"&gt;
 from browser import document as doc
@@ -209,26 +221,16 @@ class Spur(object):
     # 已經針對 n 大於等於 52 齒時的繪圖錯誤修正, 因為 base circle 與齒根圓大小必須進行判斷
     def Gear(self, midx, midy, rp, n=20, pa=20, color="black"):
         # 齒輪漸開線分成 15 線段繪製
-        imax = 15
-        # 在輸入的畫布上繪製直線, 由圓心到節圓 y 軸頂點畫一直線
-        self.create_line(midx+rp, midy, midx-rp, midy)
-        # 畫出 rp 圓, 畫圓函式尚未定義
-        #create_oval(midx-rp, midy-rp, midx+rp, midy+rp, width=2)
-        # a 為模數 (代表公制中齒的大小), 模數為節圓直徑(稱為節徑)除以齒數
-        # 模數也就是齒冠大小
+        imax = 7
+
         a=2*rp/n
         # d 為齒根大小, 為模數的 1.157 或 1.25倍, 這裡採 1.25 倍
         d=2.5*rp/n
         # ra 為齒輪的外圍半徑
         ra=rp+a
-        # 畫出 ra 圓, 畫圓函式尚未定義
-        #create_oval(midx-ra, midy-ra, midx+ra, midy+ra, width=1)
-        # rb 則為齒輪的基圓半徑
-        # 基圓為漸開線長齒之基準圓
+
         rb=rp*math.cos(pa*deg)
-        # 畫出 rb 圓 (基圓), 畫圓函式尚未定義
-        #create_oval(midx-rb, midy-rb, midx+rb, midy+rb, width=1)
-        # rd 為齒根圓半徑
+
         rd=rp-d
         # 當 rd 大於 rb 時, 漸開線並非畫至 rb, 而是 rd
         # 畫出 rd 圓 (齒根圓), 畫圓函式尚未定義
@@ -303,17 +305,43 @@ class Spur(object):
             # lfx 為齒頂圓上的左側 x 座標, lfy 則為 y 座標
             # 下列為齒頂圓上用來近似圓弧的直線
             self.create_line(lfx,lfy,rfx,rfy,fill=color)
-canvas = doc['onegear']
+canvas = doc['onegear2']
 ctx = canvas.getContext("2d")
 x = (canvas.width)/2
 y = (canvas.height)/2
-r = 0.41677
+r = 0.8*(canvas.height/2)
 # 齒數
 n = 36
 # 壓力角
 pa = 20
 Spur(ctx).Gear(x, y, r, n, pa, "blue")
-&lt;/script&gt;</summary><category term="syllabus"></category><category term="w15"></category></entry><entry><title>期中協同查驗與自評</title><link href="./2017spring-cd%20W10.html" rel="alternate"></link><published>2017-04-19T11:00:00+08:00</published><updated>2017-04-19T11:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-04-19:./2017spring-cd W10.html</id><summary type="html">&lt;h3&gt;一.四連桿機構協同 Trace Point 查驗&lt;/h3&gt;
+ctx.beginPath() 
+ctx.lineWidth="600"
+ctx.strokeStyle="white"
+ctx.moveTo(0,600) 
+ctx.lineTo(800,600) 
+ctx.stroke()
+
+ctx.beginPath() 
+ctx.lineWidth="3"
+ctx.strokeStyle="red"
+ctx.moveTo(146,300) 
+ctx.lineTo(654,300) 
+ctx.stroke()
+
+ctx.beginPath()
+ctx.fillStyle = "#0000cd"
+ctx.font = "50px Arial"
+ctx.fillText("40423211 ",300,400)
+ctx.stroke()
+
+&lt;/script&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h3&gt;影片&lt;/h3&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/G1OnnCcm4l4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="syllabus"></category><category term="w15"></category></entry><entry><title>期中協同查驗與自評</title><link href="./2017spring-cd%20W10.html" rel="alternate"></link><published>2017-04-19T11:00:00+08:00</published><updated>2017-04-19T11:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-04-19:./2017spring-cd W10.html</id><summary type="html">&lt;h3&gt;一.四連桿機構協同 Trace Point 查驗&lt;/h3&gt;
 
 &lt;h3&gt;二.繪製連桿機構並使他作動&lt;/h3&gt;
 
