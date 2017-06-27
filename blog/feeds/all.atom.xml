@@ -11,7 +11,67 @@
 
 &lt;h3&gt;4. 各組是否完成行走機構的實體製作、測試與討論.&lt;/h3&gt;
 
-&lt;h3&gt;5. 各組是否將所設計完成的行走機構零件檔案提供在網誌中, 可讓其他人下載 (若非使用 OnShape 設計部份) 或複製 (若使用 OnShape 零組件需提供可複製之公開連結), 並忠實呈現四足行走機構的協同設計流程?&lt;/h3&gt;</summary><category term="syllabus"></category><category term="w18"></category></entry><entry><title>Week17 20170614 上課測驗</title><link href="./2017spring-cd%20W17.html" rel="alternate"></link><published>2017-06-14T09:00:00+08:00</published><updated>2017-06-14T09:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-06-14:./2017spring-cd W17.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;</summary><category term="syllabus"></category><category term="w17"></category></entry><entry><title>Week16 20170607</title><link href="./2017spring-cd%20W16.html" rel="alternate"></link><published>2017-06-07T09:00:00+08:00</published><updated>2017-06-07T09:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-06-07:./2017spring-cd W16.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;h3&gt;5. 各組是否將所設計完成的行走機構零件檔案提供在網誌中, 可讓其他人下載 (若非使用 OnShape 設計部份) 或複製 (若使用 OnShape 零組件需提供可複製之公開連結), 並忠實呈現四足行走機構的協同設計流程?&lt;/h3&gt;</summary><category term="syllabus"></category><category term="w18"></category></entry><entry><title>Week17 20170614 上課測驗</title><link href="./2017spring-cd%20W17.html" rel="alternate"></link><published>2017-06-14T09:00:00+08:00</published><updated>2017-06-14T09:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-06-14:./2017spring-cd W17.html</id><summary type="html">&lt;h3&gt;完成老師課堂上的作業&lt;/h3&gt;
+
+
+
+&lt;h3&gt;1. 在各自的倉儲中, 建立一個雙足 solvepace 機構零組件, 存入 final 子目錄中&lt;/h3&gt;
+
+&lt;h3&gt;影片&lt;/h3&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/_omNjFfwds4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;2. 在各自的網誌上, 以 "W17 行走機構 2D 靜態繪圖"為標題, 以 Brython 畫出行走機構的示意圖.&lt;/h3&gt;
+
+&lt;!-- 導入 Brython 標準程式庫 --&gt;
+
+&lt;script src="../data/Brython-3.3.1/brython.js"&gt;&lt;/script&gt;
+
+&lt;script src="../data/Brython-3.3.1/brython_stdlib.js"&gt;&lt;/script&gt;
+
+&lt;!-- 啟動 Brython --&gt;
+
+&lt;script&gt;
+window.onload=function(){
+// 設定 data/py 為共用程式路徑
+brython({debug:1, pythonpath:['./../data/py']});
+}
+&lt;/script&gt;
+
+&lt;!-- 以下實際利用  Brython 畫兩條直線 --&gt;
+
+&lt;canvas id="fourbar" width="800" height="600"&gt;&lt;/canvas&gt;
+
+&lt;div id="container1"&gt;&lt;/div&gt;
+
+&lt;script type="text/python3"&gt;
+from browser import document as doc
+from browser import html
+import math
+# 準備繪圖畫布
+canvas = doc["fourbar"]
+container1 = doc['container1']
+ctx = canvas.getContext("2d")
+
+#繪製第一隻腳
+ctx.beginPath()
+ctx.moveTo(409.49,177.9)
+ctx.lineTo(452.92,202.68)
+ctx.lineTo(304.26,463.26)
+ctx.lineTo(260.83,438.48)
+ctx.fillStyle="black"
+ctx.fill()
+
+#繪製第二隻腳
+ctx.beginPath()
+ctx.moveTo(368.85,169.62)
+ctx.lineTo(502.67,438.12)
+ctx.lineTo(457.92,460.42)
+ctx.lineTo(324.1,191.92)
+ctx.fillStyle="black"
+ctx.fill()
+
+&lt;/script&gt;</summary><category term="syllabus"></category><category term="w17"></category></entry><entry><title>Week16 20170607</title><link href="./2017spring-cd%20W16.html" rel="alternate"></link><published>2017-06-07T09:00:00+08:00</published><updated>2017-06-07T09:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-06-07:./2017spring-cd W16.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h3&gt;一開始練習如何遠端連結Fossil伺服器&lt;/h3&gt;
 
@@ -411,7 +471,7 @@ ctx.stroke()
 
 &lt;h3&gt;三.行走機構作動&lt;/h3&gt;
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/xQAaD1CxIIo" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="syllabus"></category><category term="w13"></category></entry><entry><title>Week11 20170503</title><link href="./2017spring-cd%20W11.html" rel="alternate"></link><published>2017-05-03T11:00:00+08:00</published><updated>2017-05-03T11:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-05-03:./2017spring-cd W11.html</id><summary type="html">&lt;h3&gt;一.利用漸開線原理, 以 Brython 繪製單一正齒輪廓&lt;/h3&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/xQAaD1CxIIo" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="syllabus"></category><category term="w13"></category></entry><entry><title>Week12 20170510</title><link href="./2017spring-cd%20W12.html" rel="alternate"></link><published>2017-05-10T11:00:00+08:00</published><updated>2017-05-10T11:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-05-10:./2017spring-cd W12.html</id><summary type="html">&lt;h3&gt;一.利用漸開線原理, 以 Brython 繪製單一正齒輪廓&lt;/h3&gt;
 
 &lt;h3&gt;二利用 Brython 繪製兩種正齒輪嚙合的協同繪圖&lt;/h3&gt;
 
@@ -776,7 +836,7 @@ ctx.rotate(-math.pi/2-math.pi/n_g3+(math.pi+math.pi/n_g2)*n_g2/n_g3)
 ctx.translate(-x_g3, -y_g3)
 Spur(ctx).Gear(x_g3, y_g3, rp_g3, n_g3, pa, "red")
 ctx.restore()
-&lt;/script&gt;</summary><category term="syllabus"></category><category term="w11"></category></entry><entry><title>期中協同查驗與自評</title><link href="./2017spring-cd%20W10.html" rel="alternate"></link><published>2017-04-19T11:00:00+08:00</published><updated>2017-04-19T11:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-04-19:./2017spring-cd W10.html</id><summary type="html">&lt;h3&gt;一.四連桿機構協同 Trace Point 查驗&lt;/h3&gt;
+&lt;/script&gt;</summary><category term="syllabus"></category><category term="w12"></category></entry><entry><title>期中協同查驗與自評</title><link href="./2017spring-cd%20W10.html" rel="alternate"></link><published>2017-04-19T11:00:00+08:00</published><updated>2017-04-19T11:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-04-19:./2017spring-cd W10.html</id><summary type="html">&lt;h3&gt;一.四連桿機構協同 Trace Point 查驗&lt;/h3&gt;
 
 &lt;h3&gt;二.繪製連桿機構並使他作動&lt;/h3&gt;
 
