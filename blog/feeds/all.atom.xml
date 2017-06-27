@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-06-14T09:00:00+08:00</updated><entry><title>協同產品設計實習第十七週練習</title><link href="./2017spring-cd%20W17.html" rel="alternate"></link><published>2017-06-14T09:00:00+08:00</published><updated>2017-06-14T09:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-06-14:./2017spring-cd W17.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-06-21T09:00:00+08:00</updated><entry><title>Week18 20170621</title><link href="./2017spring-cd%20W18.html" rel="alternate"></link><published>2017-06-21T09:00:00+08:00</published><updated>2017-06-21T09:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-06-21:./2017spring-cd W18.html</id><summary type="html">&lt;h3&gt;期末最後總整理&lt;/h3&gt;
 
-&lt;p&gt;&lt;ifame src="./../w17/w17_2.html" width="800" height="600"&gt;&lt;/ifame&gt;&lt;/p&gt;</summary><category term="syllabus"></category><category term="w17"></category></entry><entry><title>協同產品設計實習第十五週練習</title><link href="./2017spring-cd%20W15.html" rel="alternate"></link><published>2017-05-31T09:00:00+08:00</published><updated>2017-05-31T09:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-05-31:./2017spring-cd W15.html</id><summary type="html">&lt;h3&gt;一.繪製課堂上老師所指定的作業&lt;/h3&gt;
+
+
+&lt;h3&gt;1. 各組員是否依照 https://mde2a1.kmol.info/wiki?name=2017springcd 所列, 如實完成各週任務, 並拍攝操作影片？&lt;/h3&gt;
+
+&lt;h3&gt;2. 各組員 OnShape 帳號中是否完成四足行走機構的設計？&lt;/h3&gt;
+
+&lt;h3&gt;3. 各組員是否利用 V-rep 執行各週任務模擬, 並拍攝操作影片？&lt;/h3&gt;
+
+&lt;h3&gt;4. 各組是否完成行走機構的實體製作、測試與討論.&lt;/h3&gt;
+
+&lt;h3&gt;5. 各組是否將所設計完成的行走機構零件檔案提供在網誌中, 可讓其他人下載 (若非使用 OnShape 設計部份) 或複製 (若使用 OnShape 零組件需提供可複製之公開連結), 並忠實呈現四足行走機構的協同設計流程?&lt;/h3&gt;</summary><category term="syllabus"></category><category term="w18"></category></entry><entry><title>Week17 20170614 上課測驗</title><link href="./2017spring-cd%20W17.html" rel="alternate"></link><published>2017-06-14T09:00:00+08:00</published><updated>2017-06-14T09:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-06-14:./2017spring-cd W17.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;</summary><category term="syllabus"></category><category term="w17"></category></entry><entry><title>Week16 20170607</title><link href="./2017spring-cd%20W16.html" rel="alternate"></link><published>2017-06-07T09:00:00+08:00</published><updated>2017-06-07T09:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-06-07:./2017spring-cd W16.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h3&gt;一開始練習如何遠端連結Fossil伺服器&lt;/h3&gt;
+
+&lt;h3&gt;之後老師讓我們旁聽學長們的專題報告&lt;/h3&gt;
+
+&lt;h3&gt;並要我們準備下周的上台報告&lt;/h3&gt;</summary><category term="syllabus"></category><category term="w16"></category></entry><entry><title>協同產品設計實習第十五週練習</title><link href="./2017spring-cd%20W15.html" rel="alternate"></link><published>2017-05-31T09:00:00+08:00</published><updated>2017-05-31T09:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-05-31:./2017spring-cd W15.html</id><summary type="html">&lt;h3&gt;一.繪製課堂上老師所指定的作業&lt;/h3&gt;
 
 
 
