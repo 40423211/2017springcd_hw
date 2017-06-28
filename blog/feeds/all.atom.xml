@@ -11,7 +11,10 @@
 
 &lt;h3&gt;4. 各組是否完成行走機構的實體製作、測試與討論.&lt;/h3&gt;
 
-&lt;h3&gt;5. 各組是否將所設計完成的行走機構零件檔案提供在網誌中, 可讓其他人下載 (若非使用 OnShape 設計部份) 或複製 (若使用 OnShape 零組件需提供可複製之公開連結), 並忠實呈現四足行走機構的協同設計流程?&lt;/h3&gt;</summary><category term="syllabus"></category><category term="w18"></category></entry><entry><title>Week17 20170614 上課測驗</title><link href="./2017spring-cd%20W17.html" rel="alternate"></link><published>2017-06-14T09:00:00+08:00</published><updated>2017-06-14T09:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-06-14:./2017spring-cd W17.html</id><summary type="html">&lt;h3&gt;完成老師課堂上的作業&lt;/h3&gt;
+&lt;h3&gt;5. 各組是否將所設計完成的行走機構零件檔案提供在網誌中, 可讓其他人下載 (若非使用 OnShape 設計部份) 或複製 (若使用 OnShape 零組件需提供可複製之公開連結), 並忠實呈現四足行走機構的協同設計流程?&lt;/h3&gt;
+
+&lt;p&gt;https://cad.onshape.com/documents/22983a081500fe849778c5bf/w/e995a739d17fc17c8aadca37/e/4c547c1146ee056afb594f42&lt;/p&gt;
+&lt;h3&gt;期末心得:在協同產品設計實習這門課程中明白了團結合作的重要性,以及網路協同的方便性,還有在課堂上所使用的V-rep、onshape、solvespace這三套軟體的方便性,雖然功能不是大公司軟體的多元,但容量卻可以讓人隨身攜帶,希望在未來可以看到這三套軟體在業界利用.&lt;/h3&gt;</summary><category term="syllabus"></category><category term="w18"></category></entry><entry><title>Week17 20170614 上課測驗</title><link href="./2017spring-cd%20W17.html" rel="alternate"></link><published>2017-06-14T09:00:00+08:00</published><updated>2017-06-14T09:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-06-14:./2017spring-cd W17.html</id><summary type="html">&lt;h3&gt;完成老師課堂上的作業&lt;/h3&gt;
 
 
 
@@ -71,7 +74,13 @@ ctx.lineTo(324.1,191.92)
 ctx.fillStyle="black"
 ctx.fill()
 
-&lt;/script&gt;</summary><category term="syllabus"></category><category term="w17"></category></entry><entry><title>Week16 20170607</title><link href="./2017spring-cd%20W16.html" rel="alternate"></link><published>2017-06-07T09:00:00+08:00</published><updated>2017-06-07T09:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-06-07:./2017spring-cd W16.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;/script&gt;
+
+&lt;h3&gt;3.行走機構零組件繪製&lt;/h3&gt;
+
+&lt;h3&gt;影片&lt;/h3&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/aC4stBs7fQU" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="syllabus"></category><category term="w17"></category></entry><entry><title>Week16 20170607</title><link href="./2017spring-cd%20W16.html" rel="alternate"></link><published>2017-06-07T09:00:00+08:00</published><updated>2017-06-07T09:00:00+08:00</updated><author><name>40423211</name></author><id>tag:,2017-06-07:./2017spring-cd W16.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h3&gt;一開始練習如何遠端連結Fossil伺服器&lt;/h3&gt;
 
